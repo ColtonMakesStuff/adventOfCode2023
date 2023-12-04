@@ -1,5 +1,5 @@
 import {findMatches} from "./logic.js";
-import {inputString} from "./data.js";
+import {inputString} from "./data/data.js";
 import { findCardTotal } from "./logic.js";
 
 console.log("Hello World, this is Colton using js for the day 4 task");
